@@ -4,7 +4,7 @@
 </p>
 
 - 👨‍💻 I'm some sort of a **Full-Stack Developer**.
-- 🌱 I work a lot with Java and I'm afraid for languages such as Rust!
+- 🌱 I work a lot with JavaScript and I'm afraid for languages such as Rust!
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ I like to discuss coding with others and learn more.
 - 📫 How to reach me **pankajk07414@gmail.com**.
