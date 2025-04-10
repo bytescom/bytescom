@@ -6,7 +6,7 @@
 - 👨‍💻 I'm a **Full-Stack Developer**.
 - 🌱 I work a lot with JavaScript and I'm afraid for languages such as Rust!
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
-- 👯‍♀️ I like to discuss coding with others and learn more.
+- 👯‍♀️ I like to discuss tech with others and learn more about what going on.
 - 📫 How to reach me **kumarpankaj72863@gmail.com**.
 <!---
 bytescom/bytescom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
