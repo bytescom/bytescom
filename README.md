@@ -7,7 +7,7 @@
 - 🌱 I work a lot with JavaScript and I'm afraid for languages such as Rust!
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ I like to discuss tech with others and learn more about what going on.
-- 📫 How to reach me **pankajk07414@gmail.com**.
+- 📫 How to reach me **kumarpankaj72863@gmail.com**.
 <!---
 bytescom/bytescom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
