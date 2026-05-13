@@ -1,6 +1,6 @@
 # Hey, I'm Pankaj Kumar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&color=7C6BFF&center=false&vCenter=true&width=500&height=45&lines=Full-Stack+Developer;Python+%26+AI%2FML+Enthusiast;Building+things+that+matter." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=20&color=7C6BFF&center=false&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;Python+Developer+%26+AI%2FML+Learner;Built+strong+foundations+in+Python+and+AI%2FML." />
 
 <p>
   <a href="mailto:hello@pankajk.site"><img src="https://img.shields.io/badge/Email-7C6BFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
